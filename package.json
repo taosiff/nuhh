@@ -1,4 +1,9 @@
 {
+  "name": "nuhh",
+  "version": "1.0.0",
   "private": true,
-  "main": "index.js"
+  "main": "server.local.js",
+  "scripts": {
+    "start": "node server.local.js"
+  }
 }
